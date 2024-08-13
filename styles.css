@@ -24,3 +24,9 @@ body {
 .link-button:hover {
     cursor: pointer; /* Cambia el cursor a una mano */
 }
+
+p{
+    background-color: #b7cde9;
+    border-radius: 15px;
+    padding: 5px;
+}
